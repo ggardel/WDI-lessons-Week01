@@ -1,0 +1,16 @@
+ul {
+  color: blue;
+}
+.mammal {
+  font-size: 50px;
+}
+.fish {
+  font-size: 25px;
+}
+#favorite {
+  color: red;
+  font-size: 100px;
+}
+.living {
+  text-decoration: underline;
+}
